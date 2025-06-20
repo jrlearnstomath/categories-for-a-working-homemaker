@@ -1,16 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to the place I put stuff!
 ---
 
-This is so cool! Let's see what this does...
-
-# Can I change the url, I wonder?
-OMG the header totally worked
-
-Woah too much header! Turn it off!
-
-I guess I have to go back to paragraph?
-
-header: What about now?
-
-Hi, this is text
+This is a place I put stuff, for now, while I'm off learning how to prove things.
